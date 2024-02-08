@@ -30,10 +30,10 @@ The analysis provided Maven Roasters with valuable insights into their sales pat
 
 
 ## Authors
-- [Hafida Belayd]
+- [[Hafida BELAYD](https://www.linkedin.com/in/hafida-belayd/)]
 
 ## Acknowledgments
 Special thanks to the Maven Roasters team for providing the data and to all the contributors who have offered valuable insights throughout this project.
 
 ---
-For any inquiries or contributions to this project, please contact [[Hafida bELAYD](https://www.linkedin.com/in/hafida-belayd/)].
+For any inquiries or contributions to this project, please contact [[Hafida BELAYD](https://www.linkedin.com/in/hafida-belayd/)].
