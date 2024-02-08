@@ -30,7 +30,7 @@ The analysis provided Maven Roasters with valuable insights into their sales pat
 
 
 ## Authors
-- [[Hafida BELAYD](https://www.linkedin.com/in/hafida-belayd/)]
+- [Hafida BELAYD](https://www.linkedin.com/in/hafida-belayd/)
 
 
 ---
